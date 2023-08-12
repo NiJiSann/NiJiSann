@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Some shots of my projects!
+
+Breaker:
+
+https://github.com/NiJiSann/NiJiSann/assets/85095318/165e914c-1ad3-4a0a-b6bf-662f631712df
+
+
+
+
 <!--
 **NiJiSann/NiJiSann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
