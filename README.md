@@ -2,24 +2,21 @@
 
 Some shots of my projects!
 
-Breaker:
-
-![GIF](https://github.com/NiJiSann/NiJiSann/assets/85095318/165e914c-1ad3-4a0a-b6bf-662f631712df)
-
-
-
+(Click to watch gameplay)
 
 <!--
-**NiJiSann/NiJiSann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Breaker](https://img.youtube.com/vi/qX8eav60JEg/0.jpg )](https://www.youtube.com/watch?v=qX8eav60JEg)
 -->
+
+<div width="240" height="180" align = "left">
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=qX8eav60JEg "target="_blank" >
+    <img src="http://img.youtube.com/vi/qX8eav60JEg/0.jpg" alt="Breaker" width="240" height="180" align = "left" />
+  </a>
+</div>
+<div  width="240" height="180" align = "left" >
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=qX8eav60JEg "target="_blank" >
+    <img src="http://img.youtube.com/vi/qX8eav60JEg/0.jpg" alt="Breaker" width="240" height="180" align = "left" />
+  </a>
+</div>
+
+
