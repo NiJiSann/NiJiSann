@@ -50,10 +50,20 @@ Some shots of my projects!
     </th>
     <th>
      <label>  
-     Itch.io: <a href = "https://nijisan.itch.io/ninja-cat">Desert Spy</a>
+     Itch.io: <a href = "https://nijisan.itch.io/desert-spy">Desert Spy</a>
      <div>
      <a href="http://www.youtube.com/watch?feature=player_embedded&v=zrJfLViovUw "target="_blank" >
-     <img src="http://img.youtube.com/vi/zrJfLViovUw/0.jpg" alt="Car Race" width="240" height="180" />
+     <img src="http://img.youtube.com/vi/zrJfLViovUw/0.jpg" alt="Desert Spy" width="240" height="180" />
+     </a> 
+     </div>
+     </label>
+    </th>
+        <th>
+     <label>  
+     Google Play: <a href = "https://play.google.com/store/apps/details?id=org.sabgames.mergebattle">Merge Battle</a>
+     <div>
+     <a href="http://www.youtube.com/watch?feature=player_embedded&v=?? "target="_blank" >
+     <img src="http://img.youtube.com/vi/??/0.jpg" alt="Merge Battle" width="240" height="180" />
      </a> 
      </div>
      </label>
