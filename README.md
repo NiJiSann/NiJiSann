@@ -48,5 +48,15 @@ Some shots of my projects!
      </div>
      </label>
     </th>
+    <th>
+     <label>  
+     Itch.io: <a href = "https://nijisan.itch.io/ninja-cat">Desert Spy</a>
+     <div>
+     <a href="http://www.youtube.com/watch?feature=player_embedded&v=zrJfLViovUw "target="_blank" >
+     <img src="http://img.youtube.com/vi/zrJfLViovUw/0.jpg" alt="Car Race" width="240" height="180" />
+     </a> 
+     </div>
+     </label>
+    </th>
   </tr>
 </table>
