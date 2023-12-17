@@ -38,7 +38,7 @@ Some shots of my projects!
     </th>
   </tr>
   <tr>
-     <th>
+<!--      <th>
      <label>  
      Itch.io: <a href = "https://nijisan.itch.io/car-race">Car Race</a>
      <div>
@@ -47,8 +47,8 @@ Some shots of my projects!
      </a> 
      </div>
      </label>
-    </th>
-    <th>
+    </th> -->
+<!--     <th>
      <label>  
      Itch.io: <a href = "https://nijisan.itch.io/desert-spy">Desert Spy</a>
      <div>
@@ -57,7 +57,7 @@ Some shots of my projects!
      </a> 
      </div>
      </label>
-    </th>
+    </th> -->
         <th>
      <label>  
      Google Play: <a href = "https://play.google.com/store/apps/details?id=org.sabgames.mergebattle">Merge Battle</a>
